@@ -1,0 +1,4 @@
+This is a simple CGI Wrapper that can be used to generate a simple menu/index system for web sites. Sort
+of like a super-simple content mangement system based on HTML pages. It is a hack, so all bets are off...
+
+Author: Peter Eriksson <pen@lysator.liu.se>
